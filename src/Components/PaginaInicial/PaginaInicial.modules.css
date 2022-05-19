@@ -1,0 +1,41 @@
+h1{
+    color: #1c3144;
+    float: left;
+    width: 80%;
+}
+
+body{
+    font-size:50px;
+    margin-top: 80px;
+    margin-left: 150px;
+    align-items: center; 
+}
+
+img{
+    float: right;
+    max-width:400px;
+    max-height:400px;
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+
+button{
+    background-color: #1c3144;
+    border: none;
+    color: white;
+    padding: 50px 250px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 7px 2px;
+    cursor: pointer;
+    border-radius: 1000px;
+}
+
+h7{
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+}
