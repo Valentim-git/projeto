@@ -34,8 +34,7 @@ button{
     border-radius: 1000px;
 }
 
-h7{
-    color: white;
-    cursor: pointer;
-    text-decoration: underline;
+.col-12{
+    padding: 300px;
+    text-align: center;
 }
