@@ -10,16 +10,22 @@ function PInicial(){
             <img src={Logo} alt="" /> 
         </div>
 
-        <div className={styles.divs}>
+        < div className="container">
+  <div div className="row">
+    <div className="col-12">
+         <div className={styles.divs}>
             <h4>Registe-se no socialtweet</h4>
             <button>Registe-se</button>
             <h4>Já tem conta?</h4>
             <button>Entrar</button>
-            <p>
-                <h7>Esqueceu-se da sua Palavra-passe?</h7>
-            </p>
             
         </div>
+    </div>
+    <div className="col-12"></div>
+    </div>
+    </div>
+
+  
 
         </>
 

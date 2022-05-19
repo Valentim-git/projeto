@@ -1,12 +1,14 @@
 import './App.css';
-/*import Login from './Components/Login/Login';*/
-import NovaConta from './Components/NovaConta/NovaConta';
+/*import PaginaInicial from './Components/PaginaInicial/PaginaInicial';*/
+/*import NovaConta from './Components/NovaConta/NovaConta';*/
+import Login from './Components/Login/Login';
+
 
 
 function App() {
   return (
     <div className="App">
-        <NovaConta/>
+        <Login/>
     </div>
   );
 }
