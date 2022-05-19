@@ -1,11 +1,12 @@
 import './App.css';
-import Login from './Components/Login/Login';
+/*import Login from './Components/Login/Login';*/
+import NovaConta from './Components/NovaConta/NovaConta';
 
 
 function App() {
   return (
     <div className="App">
-        <Login/>
+        <NovaConta/>
     </div>
   );
 }

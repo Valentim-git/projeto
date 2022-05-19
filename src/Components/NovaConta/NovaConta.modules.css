@@ -13,7 +13,12 @@ h1{
     padding-left: 800px;
 }
 
-input[type=text]{
+.col-12{
+    padding: 300px;
+    text-align: center;
+}
+
+input{
     padding-left: 5px;
     padding: 12px 20px;
     width: 100%;
@@ -22,9 +27,4 @@ input[type=text]{
     border: 1px solid #1c3144;
     border-radius: 4px;
     box-sizing: border-box;
-  }
-
-.col-5{
-    padding: 300px;
-    text-align: center;
 }
